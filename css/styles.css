@@ -1,0 +1,25 @@
+img{
+  float: left;
+}
+.sidebar{
+  width: 30%;
+  float: right;
+  background-color: darkorange;
+}
+.column p{
+  width: 350px;
+  float: left;
+  background-color: rebeccapurple;
+
+}
+.column1 p{
+  width: 30%;
+  float: left;
+  background-color: crimson;
+
+}
+.column2 p{
+  width: 30%;
+  float: left;
+  background-color: deeppink;
+}
